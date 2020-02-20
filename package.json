@@ -8,8 +8,9 @@
   },
   "author": "Bruno Oliveira (Brad Traversy - Electron App in 60 minutes)",
   "license": "MIT",
-  "dependencies": {
+  "devDependencies": {
     "electron": "^8.0.1",
-    "materialize-css": "^1.0.0"
+    "materialize-css": "^1.0.0",
+    "electron-packager": "^14.2.1"
   }
 }
